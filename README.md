@@ -3,7 +3,9 @@
 
 In this course we will perform a case study where we will connect to data from an Excel table with thousands of records, and visualize them in a matter of minutes, and customize the report based on our needs and requirements.
 
+The analysis uses a Netflix Dataset on the Kaggle platform.
 
+* [Dataset](https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-2021)
 
 ![Movies](https://user-images.githubusercontent.com/78714438/168483778-3ea0c027-6397-45c9-83d5-1e3c63c06dac.png)
 
