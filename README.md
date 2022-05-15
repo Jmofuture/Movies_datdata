@@ -11,6 +11,13 @@ The analysis uses a Netflix Dataset on the Kaggle platform.
 
 ![image](https://user-images.githubusercontent.com/78714438/168484565-bccf8966-bc38-4cca-8ab7-1cb9e13c0b6b.png)
 
+### The following is displayed:
+
+° Total movies and series from 2000 to 2020.
+° Total number by type of show.
+° Total number of releases by rating.
+° Total number of movies and series released by country.
+° Total number of movies and series released per year.
 
 
 ![Movies](https://user-images.githubusercontent.com/78714438/168483778-3ea0c027-6397-45c9-83d5-1e3c63c06dac.png)
