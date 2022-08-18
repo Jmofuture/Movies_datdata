@@ -9,7 +9,7 @@ The analysis uses a Netflix Dataset on the Kaggle platform.
 
 ### Performing a new measurement
 
-![image](https://user-images.githubusercontent.com/78714438/168484565-bccf8966-bc38-4cca-8ab7-1cb9e13c0b6b.png)
+<img width="920" alt="Conteo de Filas" src="https://user-images.githubusercontent.com/78714438/185511163-c1f09f52-d948-4197-847e-46c3511aa992.png">
 
 ### The following is displayed:
 
